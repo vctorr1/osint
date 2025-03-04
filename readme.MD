@@ -1,6 +1,6 @@
 # OSINT Professional Suite
 
-![Interfaz Gráfica](screenshot.png)
+![Interfaz Gráfica](dist/app.png)
 
 Herramienta avanzada de OSINT para verificación de credenciales comprometidas, desarrollada por **Víctor Ríos Recio - 2025**.
 
