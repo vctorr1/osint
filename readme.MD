@@ -54,7 +54,17 @@ Herramienta avanzada de OSINT para verificación de credenciales comprometidas, 
 
 ---
 
+## Instrucciones de uso
+
+1. Descarga el archivo `main.exe` desde la sección de archivos.
+2. Ejecuta el archivo (doble clic).
+3. Asegúrate de tener Python 3.8+ instalado si es necesario.
+
+**Nota**: Si el programa requiere bases de datos locales, descárgalas y colócalas en la misma carpeta que el ejecutable.
+
 ## Uso
+
+
 
 ### Búsqueda Básica
 1. Introduce un email o contraseña.
