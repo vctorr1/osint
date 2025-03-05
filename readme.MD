@@ -1,4 +1,4 @@
-# OSINT Professional Suite
+# OSINT Buscador de Credenciales
 
 ![Interfaz Gráfica](dist/app.png)
 
